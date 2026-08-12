@@ -1,4 +1,4 @@
-# Aditya-L1 SUIT Solar Flare Analysis & Active Region Segmentation
+# 🌞Aditya-L1 SUIT Solar Flare Analysis & Active Region Segmentation
 
 A Python-based scientific data analysis project for processing **Level-1 FITS observations** from the **Solar Ultraviolet Imaging Telescope (SUIT)** aboard India's **Aditya-L1** solar mission.
 
